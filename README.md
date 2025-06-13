@@ -12,8 +12,10 @@ This project demonstrates how to train a character-level neural network using Py
 
 Interactive charts available :
 - Training Loss Curve
+  
 ![Loss Curve](images/training_loss.png)
 - Top Character Frequencies in Generated Names
+
 ![Char Distribution](images/chars_probabilty.png)
 ## 🛠️ Technologies Used
 
