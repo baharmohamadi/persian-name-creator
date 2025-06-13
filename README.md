@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8941b837-16d4-4c00-a46c-8565f985d440)# Persian Name Generation with Neural Network
+## Persian Name Generation with Neural Network
 
 This project demonstrates how to train a character-level neural network using PyTorch to generate Persian names. It uses a dataset of 8,888 real names and builds a simple yet effective model that learns the structure of Persian names and generates new ones character by character.
 
@@ -12,8 +12,9 @@ This project demonstrates how to train a character-level neural network using Py
 
 Interactive charts available :
 - Training Loss Curve
+![Loss Curve](images/training_loss.png)
 - Top Character Frequencies in Generated Names
-
+![Char Distribution](images/chars_probabilty.png)
 ## 🛠️ Technologies Used
 
 - **Python 3**  
